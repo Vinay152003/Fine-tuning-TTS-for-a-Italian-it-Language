@@ -11,5 +11,5 @@ You can access the Live Web Application at My Hugging Face Space: [https://huggi
 
 This repository contains an implementation of a fine-tuned Italian text-to-speech (TTS) model based on SpeechT5 from Hugging Face. The model is trained on the VoxPopuli dataset to generate high-quality Italian speech audio from text input, with integrated support for a Gradio interface for user-friendly interactions.
 
-## Task-1-Report
--Task 1 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=drive_link
+## Task-2-Report
+-Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=drive_link
