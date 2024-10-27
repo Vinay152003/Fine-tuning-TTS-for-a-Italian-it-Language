@@ -118,6 +118,9 @@ sf.write("speech.wav", speech.numpy(), samplerate=16000)
 
 ![Screenshot 2024-10-27 120652](https://github.com/user-attachments/assets/ad14656d-cad2-4442-9570-07c205ae4ac7)
 
+## Performance-Evaluation 
+
+![Screenshot 2024-10-27 120846](https://github.com/user-attachments/assets/b3eba732-3b8e-4199-b857-62c135580406)
 
 
 
