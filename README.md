@@ -15,5 +15,14 @@ This repository contains an implementation of a fine-tuned Italian text-to-speec
 https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 
 ## Task-2-Report
--Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=drive_link
+-Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=sharing
+
+## Audio-Sample:
+
+-Task 2 Pre-trained Model Audio using Bark TTS: https://github.com/user-attachments/assets/fb589705-63ab-454a-aa77-6e6caa8757ea
+
+-Task 2 Fine-tuned Model Audio Sample using SpeechT5: https://github.com/user-attachments/assets/3f0b9aa9-1dcf-4802-b660-4dba0502e1c7
+
+
+
 
