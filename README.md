@@ -28,7 +28,7 @@ https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 ## Table of Contents
 - [Introduction](#introduction)
 - [Live-URL](#Live-URL)
-- [Task-1-Report](#Task-1-Report)
+- [Task-2-Report](#Task-2-Report)
 - [Audio-Sample](#Audio-Sample)
 - [Environment Setup](#environment-setup)
 - [Install](#Install)
