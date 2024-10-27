@@ -31,6 +31,14 @@ https://huggingface.co/spaces/Vinay15/Fine-tuning_TTS_for_a_Regional_Language
 
 -Task 2 Fine-tuned Model Audio Sample using SpeechT5: https://github.com/user-attachments/assets/3f0b9aa9-1dcf-4802-b660-4dba0502e1c7
 
+## Google Colab Code Link:
+
+-Pre-trained Model Italian Language using Bark TTS Colab link:
+https://colab.research.google.com/drive/1STwdydwZLgP_SyZPI1ZNp8HpjaPL5VJu?usp=sharing
+
+-Fine Tuned Model Italian Language using SpeechT5 Colab link:
+https://colab.research.google.com/drive/1xR8fcgUeEQ36fQSaWxRGxYodQ16215pO
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Live-URL](#Live-URL)
