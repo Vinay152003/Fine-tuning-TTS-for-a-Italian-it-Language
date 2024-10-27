@@ -44,6 +44,7 @@ https://huggingface.co/spaces/Vinay15/Fine-tuning_TTS_for_a_Regional_Language
 - [Model-Description](#Model-Description)
 - [Training-and-Fine-Tuning](#Training-and-Fine-Tuning)
 - [Performance-Evaluation](#Performance-Evaluation)
+- [License](#license)
 
 ## Introduction
 
@@ -129,6 +130,33 @@ sf.write("speech.wav", speech.numpy(), samplerate=16000)
 
 ![Screenshot 2024-10-27 120846](https://github.com/user-attachments/assets/b3eba732-3b8e-4199-b857-62c135580406)
 
+## License
+
+This project is licensed under the MIT License. See the following for details:
+
+```
+MIT License
+
+Copyright (c) 2024 Vinay15
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```"
 
 
 
