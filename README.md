@@ -19,6 +19,12 @@ https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 ## Task-2-Report
 -Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=sharing
 
+## Gradio interface: 
+https://huggingface.co/spaces/Vinay15/Fine-tuning_TTS_for_a_Regional_Language
+
+![Screenshot 2024-10-27 122620](https://github.com/user-attachments/assets/f02be442-94e5-414e-993e-fe25da8a2acb)
+
+
 ## Audio-Sample:
 
 -Task 2 Pre-trained Model Audio using Bark TTS: https://github.com/user-attachments/assets/fb589705-63ab-454a-aa77-6e6caa8757ea
