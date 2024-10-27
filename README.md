@@ -32,7 +32,7 @@ https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 - [Audio-Sample](#Audio-Sample)
 - [Environment Setup](#environment-setup)
 - [Install](#Install)
-- [Dataset-Preparation](#Dataset-Preparation)
+- [Dataset-Description](#Dataset-Description)
 - [My-Fine-tuning-Model](#My-Fine-tuning-Model)
 - [Results](#Results)
 - [Comparison-Summary](#Comparison-Summary)
@@ -106,7 +106,7 @@ speech = model.generate_speech(inputs["input_ids"], speaker_embeddings, vocoder=
 sf.write("speech.wav", speech.numpy(), samplerate=16000)
 ```
 
-## Dataset-Preparation
+## Dataset-Description
 
 ![Screenshot 2024-10-27 114647](https://github.com/user-attachments/assets/6098042d-e5ea-476e-a78e-18386358a498)
 
