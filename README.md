@@ -114,6 +114,11 @@ sf.write("speech.wav", speech.numpy(), samplerate=16000)
 
 ![Screenshot 2024-10-27 120041](https://github.com/user-attachments/assets/33367047-9922-4e57-928e-fe3ad9982476)
 
+## Training-and-Fine-Tuning 
+
+![Screenshot 2024-10-27 120652](https://github.com/user-attachments/assets/ad14656d-cad2-4442-9570-07c205ae4ac7)
+
+
 
 
 
