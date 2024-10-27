@@ -40,7 +40,6 @@ https://huggingface.co/spaces/Vinay15/Fine-tuning_TTS_for_a_Regional_Language
 - [Install](#Install)
 - [Dataset-Description](#Dataset-Description)
 - [My-Fine-tuning-Model](#My-Fine-tuning-Model)
-- [Results](#Results)
 - [Model-Description](#Model-Description)
 - [Training-and-Fine-Tuning](#Training-and-Fine-Tuning)
 - [Performance-Evaluation](#Performance-Evaluation)
