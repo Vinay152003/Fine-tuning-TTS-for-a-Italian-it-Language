@@ -36,7 +36,8 @@ https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 - [My-Fine-tuning-Model](#My-Fine-tuning-Model)
 - [Results](#Results)
 - [Model-Description](#Model-Description)
-- [Comparison-Summary](#Comparison-Summary)
+- [Training-and-Fine-Tuning](#Training-and-Fine-Tuning)
+- [Performance-Evaluation](#Performance-Evaluation)
 
 ## Introduction
 
