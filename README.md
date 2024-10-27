@@ -16,13 +16,17 @@ https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
 
 ![Screenshot 2024-10-27 114156](https://github.com/user-attachments/assets/f67e6a98-fb32-49a9-baf7-0cf56ffc9e3a)
 
-## Task-2-Report
--Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=sharing
 
 ## Gradio interface: 
 https://huggingface.co/spaces/Vinay15/Fine-tuning_TTS_for_a_Regional_Language
 
 ![Screenshot 2024-10-27 122620](https://github.com/user-attachments/assets/f02be442-94e5-414e-993e-fe25da8a2acb)
+
+## Task-2-Report
+-Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=sharing
+
+## Final-Report
+-Final-Report Link: https://drive.google.com/file/d/1wDt3EtxSrp_HFEUA5QCGWF9W9emqswWn/view?usp=sharing
 
 
 ## Audio-Sample:
