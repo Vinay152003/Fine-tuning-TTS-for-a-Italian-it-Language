@@ -48,7 +48,6 @@ This project presents a fine-tuned Italian Text-to-Speech (TTS) model based on M
 
 - Necessary Libraries:
   - `gradio`
-  - `gradio`
   - `transformers`
   - `datasets`
   - `soundfile`
