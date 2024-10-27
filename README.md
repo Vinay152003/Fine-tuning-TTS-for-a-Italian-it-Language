@@ -106,6 +106,12 @@ speech = model.generate_speech(inputs["input_ids"], speaker_embeddings, vocoder=
 sf.write("speech.wav", speech.numpy(), samplerate=16000)
 ```
 
+## Dataset-Preparation
+
+![Screenshot 2024-10-27 114647](https://github.com/user-attachments/assets/6098042d-e5ea-476e-a78e-18386358a498)
+
+
+
 
 
 
