@@ -13,6 +13,7 @@ This repository contains an implementation of a fine-tuned Italian text-to-speec
 
 ## My-Fine-tuning Model:
 https://huggingface.co/Vinay15/speecht5_finetuned_voxpopuli_it
+![Screenshot 2024-10-27 114156](https://github.com/user-attachments/assets/f67e6a98-fb32-49a9-baf7-0cf56ffc9e3a)
 
 ## Task-2-Report
 -Task 2 Report Link: https://drive.google.com/file/d/1cvNPkuFlTZAu1iDaagCwVRGXFd6r6vqi/view?usp=sharing
